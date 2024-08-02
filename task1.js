@@ -25,4 +25,4 @@ console.log(`Alex's Weight: ${alexWeight2}, Alex's Height: ${alexHeight2}, Brian
 console.log(`Alex's BMI: ${alexBMI2}`);
 console.log(`Brian's BMI: ${brianBMI2}`);
 console.log((alexBMI2>brianBMI2)?alexBMI2:brianBMI2);
-
+console.log('20'-'10'-5);
